@@ -1,0 +1,3 @@
+# utility aliases
+alias tree="exa -TL=3"
+alias back="cd $OLDPWD"
