@@ -1,3 +1,5 @@
+#! /bin/echo Source this file instead of running it
+
 # AWS / ECR / DOCKER / HELM commands
 # This file should be sourced from your .zshrc / .bashrc
 # These are POSIX functions, and will not work with fish.
